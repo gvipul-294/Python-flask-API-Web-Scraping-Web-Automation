@@ -1,9 +1,9 @@
-***Dependencies
-	selenium
+#Dependencies
+#	selenium
 
-	Command: pip install selenium
+#	Command: pip install selenium
 
-			***
+
 
 
 from selenium import webdriver
