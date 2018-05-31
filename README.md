@@ -10,6 +10,7 @@ EXTRAS
         Using Selenium Driver
         
         Extracted DATA about bus stages from a website
-       
-        <img src="https://github.com/gvipul-294/Python-flask-API-for-Students/blob/master/IMG-20180531-WA0003.jpg" alt="My cool logo"/>
-       
+        
+        [Snapshot]
+        https://github.com/gvipul-294/Python-flask-API-for-Students/blob/master/IMG-20180531-WA0003.jpg
+        
